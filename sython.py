@@ -79,12 +79,12 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ WELCOME TO SYTHON
+**☆ WELCOME TO SOURCE TNT
 ☆ VERSION : 2.8
 ☆ PING : `{ms}`
 ☆ DATE : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ SOURCE SYTHON : @Is_TNT**
+☆ SOURCE TNT : @Is_TNT**
 
 -قـم بأرسال `.الاوامر`
 ''')
