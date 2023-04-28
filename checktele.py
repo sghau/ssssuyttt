@@ -254,7 +254,7 @@ async def _(event):
 - By ↣ @X_K_5
 ┗━━━━━┛
 ┏━━━━━┓
-↣ (@h_3_j)
+↣ (@{username}) 
 ┗━━━━━┛
 ┏━━━━━┓
 - By ↣ @is_TNT
@@ -321,7 +321,7 @@ async def _(event):
 - By ↣ @X_K_5
 ┗━━━━━┛
 ┏━━━━━┓
-↣ (@h_3_j)
+↣ (@{username})
 ┗━━━━━┛
 ┏━━━━━┓
 - By ↣ @is_TNT
@@ -363,7 +363,7 @@ async def _(event):
 - By ↣ @X_K_5
 ┗━━━━━┛
 ┏━━━━━┓
-↣ (@h_3_j)
+↣ (@{username})
 ┗━━━━━┛
 ┏━━━━━┓
 - By ↣ @is_TNT
