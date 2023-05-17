@@ -15,7 +15,7 @@ from threading import Thread
 
 a = 'qwertyuiopasdfghjklzxcvbnm'
 b = '1234567890'
-e = 'qwertyuiopassdfghjklzxcvbnm'
+e = 'qwertyuiopassdfghjklzxcvbnm1234567890'
 
 banned = []
 isclaim = ["off"]
